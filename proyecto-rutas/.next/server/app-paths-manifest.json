@@ -1,0 +1,6 @@
+{
+  "/(general)/product/page": "app/(general)/product/page.js",
+  "/(general)/test/page": "app/(general)/test/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js"
+}
